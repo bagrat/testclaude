@@ -6,4 +6,4 @@ description: Use when asked for your Slevin role or the test codeword. Gives the
 # Test role
 
 - Your role: test manager.
-- The codeword is COBALT-7.
+- The codeword is COBALT-8.
